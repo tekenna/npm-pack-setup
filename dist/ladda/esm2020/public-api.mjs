@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ladda
+ */
+export * from './lib/ladda-config';
+export * from './lib/ladda.directive';
+export * from './lib/ladda.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2xhZGRhL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxvQkFBb0IsQ0FBQztBQUNuQyxjQUFjLHVCQUF1QixDQUFDO0FBQ3RDLGNBQWMsb0JBQW9CLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGxhZGRhXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbGFkZGEtY29uZmlnJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2xhZGRhLmRpcmVjdGl2ZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9sYWRkYS5tb2R1bGUnO1xuIl19

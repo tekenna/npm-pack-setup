@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of my-custom-styles
+ */
+// export * from './lib/my-custom-styles.service';
+// export * from './lib/my-custom-styles.component';
+// export * from './lib/my-custom-styles.module';
+export * from './lib/index';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL215LWN1c3RvbS1zdHlsZXMvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxrREFBa0Q7QUFDbEQsb0RBQW9EO0FBQ3BELGlEQUFpRDtBQUNqRCxjQUFjLGFBQWEsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbXktY3VzdG9tLXN0eWxlc1xuICovXG5cbi8vIGV4cG9ydCAqIGZyb20gJy4vbGliL215LWN1c3RvbS1zdHlsZXMuc2VydmljZSc7XG4vLyBleHBvcnQgKiBmcm9tICcuL2xpYi9teS1jdXN0b20tc3R5bGVzLmNvbXBvbmVudCc7XG4vLyBleHBvcnQgKiBmcm9tICcuL2xpYi9teS1jdXN0b20tc3R5bGVzLm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9pbmRleCc7XG4iXX0=
